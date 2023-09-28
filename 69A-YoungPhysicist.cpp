@@ -69,4 +69,4 @@ int main() {
   cin >> n; while (n--) { solve(); }
 
   return(0);
-}
+} 
