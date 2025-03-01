@@ -18,11 +18,3 @@ for i in range(t):
             continue
     else:
         print("1")
-
-
-# db of info
-# every 3 days follow up
-# excel 
-# open crm scrape
-# 15% sales from software
-# 
